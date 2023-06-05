@@ -4,9 +4,9 @@ I've used Django Rest Framework to acheive this
 
 
 ## Combine your mail ID
-To send the mail successfully, you'll have to combine your mail ID so that the program knows who the sender is
-I've used Gmail because it was quite easy to do it with it
+To send the mail successfully, you'll have to combine your mail ID so that the program knows who the sender is.
 
+I've used Gmail because it was quite easy to do it with it
 To enable your gmail to send mails as well, enable 2-step verification and create an app password
 You can name the app anything you want (I named it Django, helps to remember) 
 
