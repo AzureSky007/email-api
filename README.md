@@ -2,6 +2,8 @@
 This is just a basic API I've made to send emails to any user, there might be some inconsistencies but it should work well.
 I've used Django Rest Framework to acheive this
 
+PS - The get request does not work, still trying to fix that
+
 
 ## Combine your mail ID
 To send the mail successfully, you'll have to combine your mail ID so that the program knows who the sender is.
